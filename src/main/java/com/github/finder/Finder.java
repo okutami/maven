@@ -1,4 +1,4 @@
-package assignment;
+package com.github.finder;
 
 import java.io.File;
 import java.util.ArrayList;
